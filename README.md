@@ -1,4 +1,4 @@
-2![banner](bannerpurple.png)
+![banner](bannerpurple.png)
 
 ![sticker](nolan.png)
 
