@@ -1,4 +1,4 @@
-![banner](bannerpurple.png)
+2![banner](bannerpurple.png)
 
 ![sticker](nolan.png)
 
@@ -9,3 +9,11 @@
 ![banner](ok.png)
 
 ![sticker](nolann.png)
+
+<p align="center">i lost potential to continue this<p align="center">
+  
+<br>
+uugh it reminds me of m and my ex im gona cry
+
+<br>
+stupid love
