@@ -1,2 +1,2 @@
 detective conan theme :- p
-<p align="right"><img src="https://i.supaimg.com/3183054b-4228-4afe-927e-73bb3843f322/d6e02cb3-ab05-420b-9573-4a8de2157ba7.png" width=340/><p align="right">
+<p align="right"><img src="https://i.supaimg.com/3183054b-4228-4afe-927e-73bb3843f322/508914e3-20ca-44a9-b82a-0410b1dce695.png" width=170/><p align="right">
