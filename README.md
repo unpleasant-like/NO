@@ -2,9 +2,9 @@
 <img align="left"
 src="https://i.supaimg.com/3183054b-4228-4afe-927e-73bb3843f322/c5ac7a78-b037-43de-b29b-e883572a3010.png"
 alt="kaitoNconan"
-width="40%"/>
-$\color{#DEDADD}{\textsf{QUEST \quad FOR \quad LOVE}}$
+width="37%"/>
+$\color{#783767}{\textsf{QUEST \quad FOR \quad LOVE}}$
 <br>
-$\color{#DEDADD}{\textsf{QUEST \quad FOR \quad DREAM}}$
+$\color{#984F8A}{\textsf{QUEST \quad FOR \quad DREAM}}$
 <br>
-$\color{#9190BC}{\textsf{QUEST \quad FOR \quad ALL TRUTH !!}}$
+$\color{#D0D8E5}{\textsf{QUEST \quad FOR \quad ALL TRUTH !!}}$
